@@ -13,6 +13,7 @@ public class ListAggregatorTest {
     public void helper() {
         list = Arrays.asList(1,2,4,2,5);
     }
+    @Test
     public void sum() {
 
         ListAggregator aggregator = new ListAggregator();
