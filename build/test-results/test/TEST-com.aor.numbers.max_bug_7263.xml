@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.aor.numbers.max_bug_7263" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-11T08:40:08" hostname="LAPTOP-FJJGB00Q" time="0.016">
-  <properties/>
-  <testcase name="max()" classname="com.aor.numbers.max_bug_7263" time="0.016"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
